@@ -1,0 +1,108 @@
+<?xml-stylesheet type="text/xsl" href="TAFXLog.xsl"?>
+<LogFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Filename>C:\Users\Akash.Rawat\Documents\Visual Studio 2012\Projects\calculatornew\calculatornew\bin\Debug\LogFiles\Log_6_23_2022__8_22 PM.xml</Filename>
+  <ProjectName>calculatornew</ProjectName>
+  <TAFXVersion>2.6.65.0</TAFXVersion>
+  <Date>6/23/2022</Date>
+  <Time>8:23:02 PM</Time>
+  <LogEntries>
+    <LogEntry Time="2022-06-23T20:22:31.6499312+05:30" Message="Logging started 8:22:31 PM" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:33.3776051+05:30" Message="Running tests in object, TestFixture1" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:34.1685185+05:30" Message="Running test method, autoamteadd" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:34.1705109+05:30" Message="ACTION #1: Click on Button6" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:34.2939029+05:30" Message="Attaching object, CalculatorApplication" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:34.2968668+05:30" Message="Getting process FindProcessInfo, ProcessName = 'Calculator', ImagePath = 'D:\Calculator-master\Calculator-master\Calculator.exe', CommandLineArguments = '', UsedMatchedProperties = 'ProcessName, CommandLineArguments' - Timeout: 1000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:35.4140417+05:30" Message="Couldn't attach to process. Starting application automatically." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:35.419121+05:30" Message="Found path: D:\Calculator-master\Calculator-master\Calculator.exe" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:35.4200767+05:30" Message="Starting application: D:\Calculator-master\Calculator-master\Calculator.exe" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:35.9947264+05:30" Message="Object, CalculatorApplication is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:35.9957254+05:30" Message="Attaching object, Form1" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:36.0338617+05:30" Message="Finding window [Owned, InstanceName = 'Form1', ProcessId = '101472'] of parent: 'with control id 0' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:39.5053935+05:30" Message="Took 3469 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:39.723422+05:30" Message="Object, Form1 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:39.7254457+05:30" Message="Attaching object, Button6" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:39.7282285+05:30" Message="Finding window [Child, InstanceName = 'button6'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:40.4360784+05:30" Message="Took 718 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:40.6375296+05:30" Message="Object, Button6 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:40.9107832+05:30" Message="ACTION #2: Click on Button12" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:41.0204087+05:30" Message="Attaching object, Button12" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:41.0229318+05:30" Message="Finding window [Child, InstanceName = 'button12'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:41.4618527+05:30" Message="Took 454 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:41.6587434+05:30" Message="Object, Button12 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:41.9407471+05:30" Message="ACTION #3: Click on Button18" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:42.0592365+05:30" Message="Attaching object, Button18" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:42.0622302+05:30" Message="Finding window [Child, InstanceName = 'button18'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:42.380378+05:30" Message="Took 313 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:42.5882056+05:30" Message="Object, Button18 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:42.8743238+05:30" Message="ACTION #4: Click on Button10" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:42.9850259+05:30" Message="Attaching object, Button10" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:42.9870212+05:30" Message="Finding window [Child, InstanceName = 'button10'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:43.9401345+05:30" Message="Took 953 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:44.1448335+05:30" Message="Object, Button10 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:44.445032+05:30" Message="ACTION #5: Click on Button16" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:44.5594047+05:30" Message="Attaching object, Button16" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:44.5623978+05:30" Message="Finding window [Child, InstanceName = 'button16'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:44.7538851+05:30" Message="Took 188 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:44.9507991+05:30" Message="Object, Button16 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:45.2539809+05:30" Message="Attaching object, TextBox_Result" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:45.2569718+05:30" Message="Finding window [Child, InstanceName = 'textBox_Result'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:45.3965994+05:30" Message="Took 140 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:45.6027475+05:30" Message="Object, TextBox_Result is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:45.6744222+05:30" Message="The Text property of TextBox_Result was verified to be '7'." Level="Success" />
+    <LogEntry Time="2022-06-23T20:22:45.6774148+05:30" Message="ACTION #6: Click on Button6" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:46.0537433+05:30" Message="ACTION #7: Click on Button14" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:46.1760155+05:30" Message="Attaching object, Button14" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:46.1790347+05:30" Message="Finding window [Child, InstanceName = 'button14'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:46.7487779+05:30" Message="Took 578 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:46.9427988+05:30" Message="Object, Button14 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:47.2157246+05:30" Message="ACTION #8: Click on Button12" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:47.6073588+05:30" Message="ACTION #9: Click on Button8" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:47.7163342+05:30" Message="Attaching object, Button8" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:47.7183288+05:30" Message="Finding window [Child, InstanceName = 'button8'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:48.5369517+05:30" Message="Took 812 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:48.7318404+05:30" Message="Object, Button8 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:49.0199825+05:30" Message="ACTION #10: Click on Button9" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:49.1321463+05:30" Message="Attaching object, Button9" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:49.134141+05:30" Message="Finding window [Child, InstanceName = 'button9'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:50.0166772+05:30" Message="Took 875 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:50.2140448+05:30" Message="Object, Button9 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:50.4954497+05:30" Message="ACTION #11: Click on Button16" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:50.9382445+05:30" Message="The Text property of TextBox_Result was verified to be '115'." Level="Success" />
+    <LogEntry Time="2022-06-23T20:22:50.9404667+05:30" Message="ACTION #12: Click on Button6" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:51.3134975+05:30" Message="ACTION #13: Click on Button10" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:51.7333734+05:30" Message="ACTION #14: Click on Button9" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:52.1502295+05:30" Message="ACTION #15: Click on Button3" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:52.2724721+05:30" Message="Attaching object, Button3" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:52.2754552+05:30" Message="Finding window [Child, InstanceName = 'button3'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:53.4100465+05:30" Message="Took 1141 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:53.5963223+05:30" Message="Object, Button3 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:53.8780469+05:30" Message="ACTION #16: Click on Button9" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:54.2692344+05:30" Message="ACTION #17: Click on Button16" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:54.7112031+05:30" Message="The Text property of TextBox_Result was verified to be '9'." Level="Success" />
+    <LogEntry Time="2022-06-23T20:22:54.7141686+05:30" Message="ACTION #18: Click on Button6" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:55.1304356+05:30" Message="ACTION #19: Click on Button7" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:55.2397264+05:30" Message="Attaching object, Button7" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:55.2427211+05:30" Message="Finding window [Child, InstanceName = 'button7'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:56.0336002+05:30" Message="Took 797 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:56.225845+05:30" Message="Object, Button7 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:56.5161664+05:30" Message="ACTION #20: Click on Button1" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:56.6370797+05:30" Message="Attaching object, Button1" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:56.6400664+05:30" Message="Finding window [Child, InstanceName = 'button1'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:57.9066491+05:30" Message="Took 1266 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:58.0937425+05:30" Message="Object, Button1 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:58.3769442+05:30" Message="ACTION #21: Click on Button13" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:58.497396+05:30" Message="Attaching object, Button13" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:58.4993902+05:30" Message="Finding window [Child, InstanceName = 'button13'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:59.0050385+05:30" Message="Took 500 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:59.210269+05:30" Message="Object, Button13 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:59.4973709+05:30" Message="ACTION #22: Click on Button4" Level="Information" />
+    <LogEntry Time="2022-06-23T20:22:59.6148055+05:30" Message="Attaching object, Button4" Level="Event" />
+    <LogEntry Time="2022-06-23T20:22:59.6177681+05:30" Message="Finding window [Child, InstanceName = 'button4'] of parent: 'Form1' - Timeout: 15000 ms" Level="Event" />
+    <LogEntry Time="2022-06-23T20:23:00.6896973+05:30" Message="Took 1078 ms (15000 ms)." Level="Event" />
+    <LogEntry Time="2022-06-23T20:23:00.8788189+05:30" Message="Object, Button4 is attached" Level="Event" />
+    <LogEntry Time="2022-06-23T20:23:01.1651047+05:30" Message="ACTION #23: Click on Button16" Level="Information" />
+    <LogEntry Time="2022-06-23T20:23:01.6239045+05:30" Message="The Text property of TextBox_Result was verified to be '58'." Level="Success" />
+    <LogEntry Time="2022-06-23T20:23:01.6259008+05:30" Message="ACTION #24: Click on Button6" Level="Information" />
+    <LogEntry Time="2022-06-23T20:23:02.0873084+05:30" Message="Test finished - Success  1 Passed, 0 Failed, 0 Ignored" Level="Success" />
+  </LogEntries>
+</LogFile>
